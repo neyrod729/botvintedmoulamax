@@ -1,0 +1,41 @@
+{
+    "token": "MTA0MTI5NzQ0MjI2NTYyODczMw.Gqzji9.S-TBYy6-3ywAzjy-I0N79qHJQGkriRku6XSRJM",
+    "prefix": ":",
+    "status": "Dev by Moulamax",
+    "suburl": {
+        "https://discord.com/api/webhooks/1041448785064235088/zXAGEQk4vNXva16Sln6l8ORINwaTrDSsd-3wf6m-yEdCPdLvGjBTEjQ5MmvBwxdklikn": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2553&catalog[]=2052&catalog[]=2051&catalog[]=79&catalog[]=34&catalog[]=32&catalog[]=1809&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=88&price_from=0&currency=EUR&price_to=20&status_ids[]=6&status_ids[]=1&status_ids[]=2&status_ids[]=3&order=newest_first",
+            "salon": "\u300c\ud83e\udde2\u300dRalphLauren"
+        },
+        "https://discord.com/api/webhooks/1041448992288030812/FLYRdmyQz4XefJnxUsFUKNUEZbJLcqXKmfbyeeH9nrXrOqVqwihtIIGVXAuxIEg1OYzL": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2553&catalog[]=2052&catalog[]=2051&catalog[]=79&catalog[]=34&catalog[]=32&catalog[]=1809&catalog[]=257&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=362&price_from=0&currency=EUR&price_to=20&status_ids[]=6&status_ids[]=1&status_ids[]=2&status_ids[]=3&order=newest_first",
+            "salon": "\u300c\ud83e\udde2\u300dCarhartt"
+        },
+        "https://discord.com/api/webhooks/1041448357400420392/UP1FkrT1YAABY0AsuNhLEEe_mJjiiaBRN-9UJDrjbckQB6WfEqMLRNYDuFbqJztTEwAk": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2553&catalog[]=2052&catalog[]=2051&catalog[]=257&catalog[]=79&catalog[]=34&catalog[]=32&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=53&price_from=0&currency=EUR&price_to=20&status_ids[]=6&status_ids[]=1&status_ids[]=2&status_ids[]=3&order=newest_first",
+            "salon": "\u300c\ud83e\udde2\u300dNike"
+
+        },
+        "https://discord.com/api/webhooks/1041449264884232262/ocFT7KfrDYs3jdSFzScza5RnKyjfoG_Yl7EL76bQy--mwXPQbkiXMpNHfWdUzM6CWMM5": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2553&catalog[]=2052&catalog[]=2051&catalog[]=79&catalog[]=34&catalog[]=32&catalog[]=1809&catalog[]=257&catalog[]=585&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=304&price_from=0&currency=EUR&price_to=20&status_ids[]=6&status_ids[]=1&status_ids[]=2&status_ids[]=3&order=newest_first",
+            "salon": "\u300c\ud83e\udde2\u300dLacoste"
+
+        },
+        "https://discord.com/api/webhooks/1041434691439431730/iG07kUjcRgy7fFWMo8Ww4qKrI5HbsNyhWEd8TBaEPZV8t6MlGJGxKEfXJ-4sSkwlyr2e": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2052&catalog[]=79&catalog[]=34&catalog[]=32&catalog[]=1809&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=304&brand_id[]=14&brand_id[]=53&brand_id[]=94&brand_id[]=88&price_from=0&currency=EUR&status_ids[]=6&status_ids[]=1&status_ids[]=2&status_ids[]=3&order=newest_first&price_to=35",
+            "salon": "\u300c\ud83e\udde2\u300dFree"
+            }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
